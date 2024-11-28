@@ -37,7 +37,7 @@ Make sure you have the following installed on your system:
 
 Clone this repository to your local machine:
 bash
-git clone https://github.com/DarrenTanui01/Product_API_Client.git
+git clone https://github.com/nicolemokua/Products_API_Client.git
 cd product-api-client
 
 
@@ -218,9 +218,9 @@ Once your changes are ready and committed, follow these steps to push the client
    git commit -m "Initial commit for product API client"
    
 
-4. *Add your remote repository* https://github.com/DarrenTanui01/Product_API_Client.git:
+4. *Add your remote repository* https://github.com/nicolemokua/Products_API_Client.git:
    bash
-   git remote add origin https://github.com/DarrenTanui01/Product_API_Client.git
+   git remote add origin https://github.com/nicolemokua/Products_API_Client.git
    
 
 5. *Push the changes*:
